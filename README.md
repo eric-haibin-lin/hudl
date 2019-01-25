@@ -43,7 +43,7 @@ The command can also be controlled such as to specify arguments, just pass the c
 Here's a one liner to install `hudl` into /usr/local/bin, so you can just execute `hudl` by typing on your terminal
 
 ```
-sudo sh -c "curl https://raw.githubusercontent.com/rahul003/hudl/master/hudl -o /usr/local/bin/hudl && chmod +x /usr/local/bin/hudl"
+sudo sh -c "curl https://raw.githubusercontent.com/eric-haibin-lin/hudl/master/hudl -o /usr/local/bin/hudl && chmod +x /usr/local/bin/hudl"
 ```
 ## Examples
 * Running a command on all machines sequentially and see the output on screen
